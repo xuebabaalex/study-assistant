@@ -1,0 +1,10 @@
+{
+  "name": "咪咪学习小助手",
+  "short_name": "学习助手",
+  "description": "拍照→AI分析→举一反三",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#4A90D9",
+  "icons": []
+}
